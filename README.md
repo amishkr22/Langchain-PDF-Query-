@@ -27,7 +27,7 @@ Suppose you have a PDF report on the latest advancements in artificial intellige
 
 The app will process your queries and provide you with accurate answers directly from the PDF content.
 
-![App Interface](https://your-image-link.com/screenshot.png)
+![App Interface](image.png)
 
 ## Requirements
 
