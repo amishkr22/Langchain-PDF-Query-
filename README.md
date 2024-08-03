@@ -27,6 +27,8 @@ Suppose you have a PDF report on the latest advancements in artificial intellige
 
 The app will process your queries and provide you with accurate answers directly from the PDF content.
 
+![App Interface](https://your-image-link.com/screenshot.png)
+
 ## Requirements
 
 - Python
@@ -91,4 +93,3 @@ Contributions are welcome! If you have suggestions, improvements, or want to rep
 ## Contact
 
 For questions or feedback, reach out to [amishkumar1028@gmail.com](mailto:amishkumar1028@gmail.com).
-
