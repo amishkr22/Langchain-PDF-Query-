@@ -40,7 +40,7 @@ The app will process your queries and provide you with accurate answers directly
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/give-power-to-your-pdfs.git
+    git clone https://github.com/amishkr22/Langchain-PDF-Query-.git
     cd give-power-to-your-pdfs
     ```
 
